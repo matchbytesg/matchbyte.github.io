@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matchbyte</title>
+    <link>http://matchbytesg.github.io/</link>
+    <description>Recent content on Matchbyte</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://matchbytesg.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Matchbyte</title>
+      <link>http://matchbytesg.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://matchbytesg.github.io/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matchbyte Career Opportunities</title>
+      <link>http://matchbytesg.github.io/jobs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://matchbytesg.github.io/jobs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matchbyte Portfolio</title>
+      <link>http://matchbytesg.github.io/work/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://matchbytesg.github.io/work/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matchbyte Privacy Policy</title>
+      <link>http://matchbytesg.github.io/privacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://matchbytesg.github.io/privacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matchbyte Services &amp; Solutions</title>
+      <link>http://matchbytesg.github.io/services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://matchbytesg.github.io/services/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
