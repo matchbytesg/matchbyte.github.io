@@ -1,7 +1,7 @@
 $(function() {
 	initializeSlickSlider();
 
-	initializeCookieConsent();
+	//initializeCookieConsent();
 
 	validForm();
 
